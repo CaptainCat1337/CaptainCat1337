@@ -35,7 +35,7 @@
 ### 🏆 Достижения :
 
 <div>
-  <img src="https://github.com/ryo-ma/github-profile-trophy/?username=CaptainCat1337" alt=""/>
+  <img src="https://github.com/ryo-ma/github-profile-trophy.vercel.app/?username=CaptainCat1337" alt=""/>
 </div>
 
 ### ⌨️ Наиболее используемые языки:
