@@ -4,6 +4,6 @@
   </a>
 
   <a href= "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
-    <img scr = "https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="EMAIL Badge"/>
+    <img src = "https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="EMAIL Badge"/>
   </a>
 </div>
