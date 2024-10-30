@@ -12,9 +12,10 @@
   <img src="https://komarev.com/ghpvc/?username=CaptainCat1337&style=flat-square&color=blue" alt=""/>
 </div>
 
-
+<div id="heythere" align="center">
 <h1> Профиль на GITHUB </h1>
 </h1>
+</div>
 
 ### 👩‍💻 Обо мне :
 
