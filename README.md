@@ -35,11 +35,15 @@
 ### 🏆 Достижения :
 
 <div>
-  <img src="https://github.com/ryo-ma/github-profile-trophy.vercel.app/?username=CaptainCat1337" alt=""/>
+  <img src="https://github-profile-trophy.vercel.app/?username=CaptainCat1337" alt=""/>
 </div>
 
 ### ⌨️ Наиболее используемые языки:
 
 <div>
-  <img src="https://github.com/anuraghazra/github-readme-stats/vercel.app/api/top-langs/?username=CaptainCat1337" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainCat133" alt=""/>
+</div>
+
+<div>
+  <img src="●	https://github.com/Ashutosh00710/github-readme-activity-graph/?username=CaptainCat133&theme=tokyo-night" alt=""/>
 </div>
