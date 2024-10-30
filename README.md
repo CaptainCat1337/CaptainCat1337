@@ -1,4 +1,3 @@
-
 <div id="badges" align ="center">
   <a href= "https://t.me/MrSck3r">
     <img src = "https://img.shields.io/badge/TG-blue?style=for-the-badge&logo=TG&logoColor=White" alt="TG Badge" />
@@ -16,3 +15,5 @@
 <div id="heythere" align="center">
 <h1> Профиль на GITHUB </h1>
 </h1>
+
+### 👩‍💻: Обо мне :
