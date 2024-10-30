@@ -1,4 +1,4 @@
-<div id="badges' aling =<"canter"
+<div id="badges" aling =<"canter">
   <a href= "https://t.me/MrSck3r">
     <img src = "https://img.shields.io/badge/TG-blue?style=for-the-badge&logo=TG&logoColor=White" alt="TG Badge" />
   </a>
