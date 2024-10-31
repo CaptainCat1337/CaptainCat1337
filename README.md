@@ -46,5 +46,5 @@
 
 ### 📊 Статистика активности :
 <div>
-  <img src="https://github.com/Ashutosh00710/github-readme-activity-graph/raw/master/?username=CaptainCat1337&theme=merko" alt=""/>
+  <img src="https://github.com/Ashutosh00710/github-readme-activity-graph/raw/master/?username=CaptainCat1337&theme=tokyo-night" alt=""/>
 </div>
