@@ -46,5 +46,5 @@
 
 ### 📊 Статистика активности :
 <div>
-  <img src="https://github-readme-activity-graph/raw/master/?username=CaptainCat1337&theme=tokyo-night" alt=""/>
+  <img src="https://github-readme-activity-graph.versel.app/graph??username=CaptainCat1337&theme=tokyo-night" alt=""/>
 </div>
